@@ -1,6 +1,6 @@
 # Muhammad Fahad
 
-**Full-Stack Developer** · APIs · Verification Platforms · Payments · Real-Time Systems
+**Full-Stack Engineer** · APIs · Verification Platforms · Payments · Real-Time Systems
 
 I build web applications and backend services, connecting product workflows with payment, identity, verification, and communication providers. My experience spans **PHP and Laravel**, **JavaScript and TypeScript**, **Node.js**, **React**, and **Python**.
 
