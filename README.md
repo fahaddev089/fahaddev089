@@ -1,8 +1,8 @@
 # Muhammad Fahad
 
-**Full-Stack Engineer** · APIs · Verification Platforms · Payments · Real-Time Systems
+**Full-Stack Engineer** · APIs · Rental & Booking Platforms · Payments · Real-Time Systems
 
-I build web applications and backend services, connecting product workflows with payment, identity, verification, and communication providers. My experience spans **PHP and Laravel**, **JavaScript and TypeScript**, and **Python**, from REST APIs and admin tools to real-time features and integrations.
+I build web applications and backend services, connecting product workflows with payment, identity, verification, and communication providers. My experience spans **PHP and Laravel**, **JavaScript and React**, and **Python**, from REST APIs and admin tools to real-time features and integrations.
 
 ## Technical skills
 
@@ -10,12 +10,26 @@ I build web applications and backend services, connecting product workflows with
 | --- | --- |
 | **Languages** | PHP, JavaScript, TypeScript, Python, SQL, HTML, CSS |
 | **Backend** | Laravel, Node.js, Express, FastAPI, REST APIs, authentication, webhooks, background jobs |
-| **Frontend** | React, Vue.js, Bootstrap, Sass, Vite |
-| **Data** | MySQL, PostgreSQL, database migrations, SQLAlchemy, Alembic |
+| **Frontend** | React, Vue.js, Vite, Bootstrap, Sass, responsive interfaces, custom CSS |
+| **Data** | MySQL, PostgreSQL, SQLite, database migrations, SQLAlchemy, Alembic |
 | **Real-time systems** | Socket.IO, chat APIs, read receipts, typing indicators, push notifications |
 | **Payments & integrations** | Stripe, Authorize.Net, Apple Pay, PayArc, Twilio, Firebase Cloud Messaging, Mixpanel, SEON |
-| **Cloud & delivery** | AWS, Vercel, GitHub Actions, CI/CD |
-| **Developer tools** | Git, Composer, npm, Postman, PHPUnit |
+| **UI & visualization** | SVG charts, GSAP, Motion, Three.js, React Three Fiber |
+| **Cloud & delivery** | AWS, Vercel, GitHub Actions, CI/CD, shell scripting |
+| **Developer tools** | Git, Composer, npm, Postman, PHPUnit, ESLint |
+
+## Selected project experience
+
+### Rental SaaS and admin portal
+- Developing a **React and Vite** rental operations interface with fleet, bookings, customers, analytics, reports, settings, and calendar workflows.
+- Building reusable UI patterns including multi-step booking and vehicle wizards, accessible modals, country-aware phone inputs, interactive tables, and custom SVG data visualizations.
+- Working with a **Laravel API** using REST endpoints and Sanctum authentication for rental, booking, and admin workflows.
+- Creating a separate super-admin panel and a customer-facing website using React and Vite.
+
+### Vehicle rental backend and real-time services
+- Building Laravel APIs for vehicle listings, customer and host accounts, bookings, trip management, and admin tools.
+- Developing real-time user/admin chat services with Node.js and Socket.IO alongside REST APIs.
+- Integrating payment providers, SMS, push notifications, identity checks, and analytics services.
 
 ## Integrations
 
@@ -39,11 +53,12 @@ I build web applications and backend services, connecting product workflows with
 
 ## Engineering focus
 
-- Building full-stack applications, dashboards, and customer-facing APIs
-- Developing Laravel backends for vehicle listings, bookings, host and customer workflows, and admin tools
+- Building full-stack applications, SaaS dashboards, customer-facing websites, and APIs
+- Developing rental and vehicle-booking workflows across customer, host, and admin experiences
 - Designing payment, subscription, invoice, and verification workflows
 - Integrating external services through APIs and webhooks
-- Building real-time user/admin chat services with Node.js and Socket.IO alongside REST APIs
+- Building real-time user/admin chat services with Node.js and Socket.IO
+- Creating reusable, responsive interfaces and interactive data visualizations
 - Implementing notifications, background processing, and automated deployment workflows
 - Exploring practical AI and LLM capabilities in application projects
 
